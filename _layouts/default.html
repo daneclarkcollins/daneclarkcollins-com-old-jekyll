@@ -6,14 +6,11 @@
     <title>{{ page.title }} - {{ site.name }}</title>
     <meta name="description" content="{{ page.title }} - {{ site.name }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
 
     <!-- CSS  Get: http://www.google.com/fonts/
     http://stackoverflow.com/questions/7985081/how-to-deploy-a-jekyll-site-locally-with-css-js-and-background-images-included
     ================================================== -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,200,700" rel="stylesheet" type="text/css">
-    <!-- Fount Awesome -->
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
     <link rel="stylesheet" href="css/style.css" />
 
@@ -95,16 +92,12 @@
         <footer class="site-footer row" role="contentinfo">
         <hr/>
           <div class="large-12 columns">
-            <ul class="inline-list">
-                {% include nav.html %}
-            </ul>
             <p class="quiet copyright right"> <a href="https://twitter.com/{{ site.twitter }}">
                 <i class="fa fa-twitter">
                 </i>
-             @{{ site.twitter }}</a>, <a href="https://github.com/{{ site.github }}/">
-                <i class="fa fa-github">
-                </i>
-             @{{ site.github }}</a> {{ site.year }}.</p>
+             @{{ site.twitter }}</a>
+
+             {{ site.year }}.</p>
           </div>
         </footer>
 
