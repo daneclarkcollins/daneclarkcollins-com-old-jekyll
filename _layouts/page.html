@@ -14,8 +14,8 @@
             <![endif]-->
 
         <header class="contain-to-grid">
-    	    <!-- Starting the Top-Bar -->
-        	{% include nav.html %}
+          <!-- Starting the Top-Bar -->
+          {% include nav.html %}
 
         <!-- Off Canvas Menu -->
         <aside class="right-off-canvas-menu">
@@ -28,17 +28,21 @@
 
         <div class="row">
           <section role="main">
-            <div class="small-12 columns">
+            <div class="small-8 columns">
+              <h1>{{ page.title }}</h1>
 
               {{ content }}
 
+            </div>
+            <div class="small-4 columns">
+              {% include sidebar.html %}
             </div>
           </section>
         </div>
 
 
-        {% include footer.html %}
+{% include footer.html %}
 
 
-  </body>
+</body>
 </html>

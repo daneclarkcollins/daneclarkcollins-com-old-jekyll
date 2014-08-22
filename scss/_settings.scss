@@ -23,16 +23,16 @@ $rem-base: 16px;
 $base-font-size: 100%;
 
 // The $base-font-size is 100% while $base-line-height is 150%
-$base-line-height: 180%;
+$base-line-height: 80%;
 
 // We use this to control whether or not CSS classes come through in the gem files.
 // $include-html-classes: true;
 // $include-print-styles: true;
 // $include-html-global-classes: $include-html-classes;
 
-// Grid 
+// Grid
 
-// $include-html-block-grid-classes: $include-html-classes; 
+// $include-html-block-grid-classes: $include-html-classes;
 // $include-xl-html-grid-classes: false;
 
 $row-width: rem-calc(1000);
@@ -45,9 +45,9 @@ $total-columns: 12;
 // $font-weight-bold: bold !default
 
 // We use these to control various global styles
-$body-bg: #fff;
-$body-font-color: #222;
-$body-font-family: "Raleway", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-bg: #ede9de;
+$body-font-color: #444;
+$body-font-family: 'Ubuntu', sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
@@ -60,7 +60,7 @@ $font-smoothing: antialiased;
 // $default-float: left;
 
 // We use these as default colors throughout
-$primary-color: #6d9877;
+$primary-color: #a00;
 $secondary-color: #e7e7e7;
 $alert-color: #f04124;
 
@@ -125,7 +125,7 @@ $xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (m
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
-// $header-font-family: $body-font-family;
+$header-font-family: 'Nova Slim', cursive;
 // $header-font-weight: normal;
 // $header-font-style: normal;
 // $header-font-color: #222;
@@ -1187,7 +1187,7 @@ $paragraph-line-height: 1.8;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-// $topbar-bg-color: #333;
+$topbar-bg-color: #900;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1217,7 +1217,7 @@ $paragraph-line-height: 1.8;
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 // $topbar-link-bg-color-hover: #555555;
-// $topbar-link-bg-hover: #272727;
+$topbar-link-bg-hover: #700;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;

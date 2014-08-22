@@ -1,4 +1,40 @@
-<li><a href="{{ site.url }}">Home</a></li>
-<li><a href="page-html-unit-test.html">Unit test</a></li>
-<li><a href="page-foundation-example.html">Foundation</a></li>
-<li><a href="page-template-example.html">Template2</a></li>
+<nav class="top-bar" data-topbar>
+  <ul class="title-area">
+      <li class="name">
+        <h1><a href="{{ site.url }}" title="Dane Clark Collins" rel="home">Dane Clark Collins</a></h1>
+      </li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+  <section class="top-bar-section">
+    <ul class="left">
+      <li class="divider"></li>
+      <li><a href="{{ site.url }}">Home</a></li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="{{ site.url }}/world-of-uteria/">World of Uteria</a>
+        <ul class="dropdown">
+          <li><a href="{{ site.url }}/world-of-uteria/the-elves-of-uteria/">The Elves of Uteria</a></li>
+          <li><a href="{{ site.url }}/world-of-uteria/the-elflings-of-uteria/">The Elflings of Uteria</a></li>
+          <li><a href="{{ site.url }}/world-of-uteria/tomb-of-kochun/">Tomb of Kochun</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li><a href="{{ site.url }}/travelogue-saga/">Travelogue Saga</a></li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="{{ site.url }}/music/">Music</a>
+        <ul class="dropdown">
+          <li><a href="{{ site.url }}/music/sonic-contortions/">Sonic Contortions</a></li>
+          <li><a href="{{ site.url }}/music/i-am-the-phantom/">I Am The Phantom</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li><a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="divider"></li>
+      <li><a href="{{ site.url }}/contact/">Contact</a></li>
+    </ul>
+  </section>
+</nav>
+<!-- End of Top-Bar -->
+</header>
