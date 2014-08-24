@@ -5,3 +5,77 @@ h1, h2, h3, h4, h5, h6 {
 	@media #{$large-up} {
 	}
 }
+
+header.page-header {
+	margin-bottom: 1.625em;
+		nav {
+			h1 {
+			font-size: 1.6em!important;
+		}
+	}
+}
+
+// Add class for images
+img.alignright {
+	float: right;
+	margin: 0 0 18px 18px;
+}
+
+img.alignleft {
+	float: left;
+	margin: 0 18px 18px 0;
+}
+
+img.aligncenter {
+	display: block;
+	margin: 18px auto;
+}
+
+// Content
+#content {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	.content-padding {
+		padding: 1em;
+	}
+}
+
+span.author,
+time {
+	font-size: rem-calc(15);
+	font-style: italic;
+	margin-bottom: 1.25em;
+	display: inline-block;
+	color: #999;
+	a {
+		color: #999;
+		font-weight: bold;
+		&:hover, &:focus {
+			color: $body-font-color;
+		}
+	}
+}
+
+// Sidebar
+.panel {
+	p {
+		color: #777;
+	}
+	ul.recent {
+		padding: 5px 0 0;
+		margin: 0;
+		li {
+			list-style: none;
+			font-size: 15px;
+			line-height: 1em;
+			margin-bottom: 1em;
+			a {
+				color: #999;
+				font-weight: normal;
+				&:hover {
+					color: #444;
+				}
+			}
+		}
+	}
+}

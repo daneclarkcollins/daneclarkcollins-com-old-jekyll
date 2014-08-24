@@ -1,7 +1,5 @@
 ---
-layout: default
-status: publish
-published: true
-title: Bio
+layout: page
+title: The Autobiography of Dane Clark Collins
 ---
 Testing

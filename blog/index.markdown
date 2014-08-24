@@ -1,15 +1,14 @@
 ---
 layout: page
-status: publish
-published: true
-title: Automatic Writing
+title: Just Words
 ---
 
 <ul>
 {% for post in site.posts %}
     <li>
-        <div class="date">{{ post.date | date_to_string }}</div>
         <a href="{{ site.prefix  }}{{ post.url }}">{{ post.title }}</a>
+        <div class="date">{{ post.date | date_to_string }}</div>
+        {{ post.excerpt }}
     </li>
 {% endfor %}
 </ul>

@@ -13,7 +13,7 @@
                 <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
             <![endif]-->
 
-        <header class="contain-to-grid">
+        <header class="contain-to-grid page-header">
           <!-- Starting the Top-Bar -->
           {% include nav.html %}
 
@@ -27,17 +27,18 @@
 
 
         <div class="row">
-          <section role="main">
-            <div class="small-8 columns">
+
+          <section role="main" id="content" class="large-8 small-12 columns">
+            <div class="content-padding">
               <h1>{{ page.title }}</h1>
-
               {{ content }}
-
-            </div>
-            <div class="small-4 columns">
-              {% include sidebar.html %}
             </div>
           </section>
+
+          <section class="large-4 small-12 columns">
+            {% include sidebar.html %}
+          </section>
+
         </div>
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dane heads to Nashville for a showing
+description: This is a test
 ---
 
 I don't know exactly what dates yet, and will post them when I know exactly, but I'll be in Nashville the weekend of November 10th.
