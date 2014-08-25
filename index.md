@@ -26,7 +26,7 @@ Magic has also begun to wake in the lands, and Jarin records the different types
   <p style="margin-bottom:0;color:#999;font-style:italic;">{{ post.date | date_to_string }}</p>
   {% if post.customexcerpt %}
     <p>{{ post.customexcerpt }}</p>
-  {% else %}
+  {% else %}test
     {{ post.excerpt }}
   {% endif %}
 {% endfor %}
