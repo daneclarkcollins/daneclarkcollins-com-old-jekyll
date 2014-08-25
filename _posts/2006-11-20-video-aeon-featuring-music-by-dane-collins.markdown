@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Video: Aeon (featuring music by Dane Collins)'
+title: Video: Aeon (featuring music by Dane Collins)
+description: Come see a brilliant animation created by Michael Bielaczyc, using the song Curtains by Dane Clark Collins.
 ---
 
 This is an animation created by Michael Bielaczyc, using the song Curtains:

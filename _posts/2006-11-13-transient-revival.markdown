@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transient Revival
+description: Renowned fantasy artist Mike Bielaczyc recently invited me to participate in the creation of an art exhibit of ambitious magnitude. My part was to create an ambitious atmospheric soundscape.
 ---
 
 Renowned fantasy artist Mike Bielaczyc (Aradani Studios, Dragonlance) recently invited me to participate in the creation of an art exhibit of ambitious magnitude. My part was to create a soundscape that would enhance the atmosphere of an already dark and eerie exploration into the experience of belief, awakening, fate, and free will. The opening was tremendous, and we would like to thank everyone who made it out. I saw close friends, old acquaintances, people I haven't seen in over a decade, and met quite a few new people... all coming together to witness Mike's creation. My initial announcement regarding this project may have read like an extreme exaggeration, but as it turns out, it wasn't an exaggeration in the least.

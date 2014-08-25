@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dane heads to Nashville for a showing
-description: This is a test
+description: Michael Bielaczyc has created an ambitious work of art which will be on display on the 10th, and it is accompanied by sounds so beautifully ugly that I have to be there to hear them.
 ---
 
 I don't know exactly what dates yet, and will post them when I know exactly, but I'll be in Nashville the weekend of November 10th.
