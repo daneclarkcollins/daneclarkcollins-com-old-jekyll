@@ -152,3 +152,11 @@ $webicons-url: "/webicons/" !default;
 		height: 200px;
 	}
 }
+
+// Share buttons
+.share_header {
+	margin: 0 0 7px; padding-bottom: 2px; margin-top: 40px; border-bottom: 1px solid #EEE; display: block;
+}
+.share_button {
+	width: 100px; float: left;
+}

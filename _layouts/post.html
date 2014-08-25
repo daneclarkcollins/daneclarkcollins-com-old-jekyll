@@ -1,48 +1,113 @@
-<!doctype html>
-<html class="no-js">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
+  <!doctype html>
+  <html class="no-js">
+    <head>
+      {% include head.html %}
+    </head>
+    <body>
 
-    <div class="off-canvas-wrap" data-offcanvas>
-      <div class="inner-wrap">
-        <!-- Add header and nav here  -->
+      <div class="off-canvas-wrap" data-offcanvas>
+        <div class="inner-wrap">
+          <!-- Add header and nav here  -->
 
-            <!--[if lt IE 8]>
-                <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
-            <![endif]-->
+              <!--[if lt IE 8]>
+                  <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
+              <![endif]-->
 
-        <header class="contain-to-grid page-header">
-          <!-- Starting the Top-Bar -->
-          {% include nav.html %}
+          <header class="contain-to-grid page-header">
+            <!-- Starting the Top-Bar -->
+            {% include nav.html %}
 
-        <!-- Off Canvas Menu -->
-        <aside class="right-off-canvas-menu">
-            <!-- navigation list goes here -->
-            <ul class="off-canvas-list">
-               {% include nav.html %}
-            </ul>
-        </aside>
+          <!-- Off Canvas Menu -->
+          <aside class="right-off-canvas-menu">
+              <!-- navigation list goes here -->
+              <ul class="off-canvas-list">
+                 {% include nav.html %}
+              </ul>
+          </aside>
 
-        <div class="row">
-          <section role="main" id="content" class="small-8 columns">
-            <div class="content-padding">
-              <header>
-  				      <h1>{{ page.title }}</h1>
-  			        <span class="byline author">Written by Dane Clark Collins</span>
-                <time class="updated" pubdate="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: '%B %d, %Y' }}</time>
-              </header>
-              {{ content }}
-            </div>
-          </section>
-          <section id="sidebar" class="small-4 columns">
-            {% include sidebar.html %}
-          </section>
-        </div>
+          <div class="row">
+            <section role="main" id="content" class="small-8 columns">
+              <div class="content-padding">
+                <header>
+    				      <h1>{{ page.title }}</h1>
+    			        <span class="byline author">Written by Dane Clark Collins</span>
+                  on <time class="updated" pubdate="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: '%B %d, %Y' }}</time>
+                </header>
+                {{ content }}
 
-{% include footer.html %}
+                <h4 class="share_header">Like this article? Share with others!</h4>
+
+                <!-- Twitter share -->
+                <div class="share_button">
+                  <a href="https://twitter.com/share" class="twitter-share-button"
+                  data-url="{{ site.url }}{{ page.url }}" data-text="{{ page.title }}"
+                  data-via="dane_collins" data-count="horizontal">Tweet</a>
+
+                  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];
+                  if(!d.getElementById(id)){js=d.createElement(s);js.id=id;
+                  js.src="//platform.twitter.com/widgets.js";
+                  fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                  </script>
+                </div>
+
+                <!-- Facebook share -->
+                <div class="share_button">
+                  <div id="fb-root"></div>
+                  <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                    fjs.parentNode.insertBefore(js, fjs);
+                  }(document, 'script', 'facebook-jssdk'));</script>
+
+                  <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-send="false"
+                  data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                </div>
+
+                <!-- Google Plus share -->
+                <div class="share_button">
+                  <div class="g-plusone" data-size="medium" data-href="{{ site.url }}{{ page.url }}">
+                  </div>
+
+                  <script type="text/javascript">
+                    (function() {
+                      var po = document.createElement('script'); po.type = 'text/javascript';
+                      po.async = true;
+                      po.src = 'https://apis.google.com/js/plusone.js';
+                      var s = document.getElementsByTagName('script')[0];
+                      s.parentNode.insertBefore(po, s);
+                    })();
+                  </script>
+                </div>
+                <div class="clearfix" style="margin-bottom: 2em;"></div>
+
+                <!-- Disqus -->
+                <h4 class="share_header">Please leave a comment...</h4>
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = 'daneclarkcollins'; // required: replace example with your forum shortname
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+              </div>
+            </section>
+            <section id="sidebar" class="small-4 columns">
+              {% include sidebar.html %}
+            </section>
+          </div>
+
+  {% include footer.html %}
 
 
-</body>
-</html>
+  </body>
+  </html>
