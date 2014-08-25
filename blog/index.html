@@ -8,9 +8,9 @@ title: Just Words
   <h4 style="margin-bottom:0"><a href="{{ site.prefix  }}{{ post.url }}">{{ post.title }}</a></h4>
   <p style="margin-bottom:0;color:#999;font-style:italic;">{{ post.date | date_to_string }}</p>
   {% if post.customexcerpt %}
-    <p>{{ post.customexcerpt }}</p>
+  <p>{{ post.customexcerpt }}</p>
   {% else %}
-    {{ post.excerpt }}
+  {{ post.excerpt }}
   {% endif %}
 {% endfor %}
 
