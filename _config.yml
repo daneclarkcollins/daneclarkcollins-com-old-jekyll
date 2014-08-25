@@ -1,13 +1,12 @@
 name : Dane Clark Collins
 brand : Dane Clark Collins
 description : Writer & Musician
-keyword:
 url : http://daneclarkcollins.github.io/daneclarkcollins-com
-imageurl: http://www.daigo.org/wordpress/wp-content/themes/daigo_org-theme-2013/img/glasses.png
-email : dane@daneclarkcollins.com
-twitter : dane_collins
 author: Dane Clark Collins
+twitter: dane_collins
 analytics:
 year: 2014
 markdown: kramdown
-permalink: /words/:title
+permalink: /blog/:title
+paginate: 10
+paginate_path: "/blog/page:num"

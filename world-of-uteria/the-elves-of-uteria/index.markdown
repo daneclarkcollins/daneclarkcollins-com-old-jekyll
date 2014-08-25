@@ -4,6 +4,8 @@ title: The Elves of Uteria
 ---
 ## What is in the book?
 
+<div class="left cover book"><img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0996013806&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=danclacol-20" alt="The Elves of Uteria"><br />The Elves of Uteria<br><span class="small-text">Buy: <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank">Amazon</a><br>Buy: <a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank">DriveThruRPG</a></span></div>
+
 The Elves of Uteria is a story heavy source book featuring an original re-imagining of fantasy elves. The book is 76 pages with plenty of art, fiction and gaming material.
 
 The Elves of Uteria is told through the eyes of Jarin Plainswalker, as Druid from the Western Council who was tasked with reestablishing contact with the elves of the world. The five different cultures of the elves are explored, as well as the elflings, who are the fey cousins of the elves.
@@ -28,6 +30,11 @@ These are based in the world of Uteria, but can easily be converted over into ot
 **An explanation of the base magic system in Uteria** – ravaging, spell points, and feats. An explanation of the base spellcaster class.  
 **Our modified spellcasting system** eliminates spell classes like wizards, clerics, etc and replaces it with a base spellcaster class and archetypes.
 
+<div class="clearfix">
+  <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
+<a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank" class="button right">Buy the book at DriveThruRPG</a>
+</div>
+
 ##Artwork:
 
 **Michael Bielaczyc** - Michael's work spans the fantastical to the strange. He has worked with many larger companies such as Dragonlance, Kobold Quarterly, Frog God Games as well as his own projects. http://michaelbielaczyc.com/blog/
@@ -45,3 +52,8 @@ These are based in the world of Uteria, but can easily be converted over into ot
 **Aaron Miller** - Aaron Miller is a Chicago based illustrator in the style of imaginative realism. Some of his projects include Magic the Gathering, D&amp;D, Star Wars, Legends of Norrath, NYC the Powerful, Immortalis, and Shogun Rising just to name a few. aaronbmiller.com
 
 **Christopher Burdett** - A master of monster design, Christopher contributed some work to the creature compendium. http://www.christopherburdett.com/
+
+<div class="clearfix">
+  <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
+<a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank" class="button right">Buy the book at DriveThruRPG</a>
+</div>

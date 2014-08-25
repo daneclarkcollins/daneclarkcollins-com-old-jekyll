@@ -4,56 +4,59 @@
   <p>I write fiction, non-fiction, and anything that comes to mind. Sometimes I create music and sounds that come to mind. I speculate and pontificate. I do other things from time to time. And I share some of it here.</p>
 </div>
 
-<!-- Search Box -->
-<div class="panel">
-  <form role="search" method="get" action="">
-  	<div class="row collapse">
-  		<div class="large-8 small-9 columns">
-  			<input type="text" value="" name="s" placeholder="Search">
-  		</div>
-  		<div class="large-4 small-3 columns">
-  			<input type="submit" id="searchsubmit" value="Search" class="button postfix">
-  		</div>
-  	</div>
-  </form>
-</div>
-
 <!-- Mailchimp Signup -->
 <div class="panel">
-  <h4>Newsletter</h4>
-  <form method="post" action="" class="form mc4wp-form">
-    <p>
-  	  <label for="mc4wp_email">Email address: </label>
-  	  <input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required="">
-    </p>
-
-    <p>
-  	  <input type="submit" value="Sign up">
-    </p>
-    <textarea name="_mc4wp_required_but_not_really" style="display: none !important;"></textarea>
-    <input type="hidden" name="_mc4wp_form_submit" value="1">
-    <input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="4f48f01322">
-  </form>
+  <h4>Receive Updates</h4>
+  <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//homeforartists.us2.list-manage.com/subscribe/post?u=8769492bdba5f3ac3b303f63e&amp;id=5cd5eb15ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_8769492bdba5f3ac3b303f63e_5cd5eb15ba" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Receive Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
 </div>
 
+<!--End mc_embed_signup-->
+</div>
+
+<!-- Follow/Share -->
+<div class="panel">
+  <h4>Follow/Share</h4>
+  <div class="social-buttons">
+    <a class="webicon twitter" href="https://twitter.com/dane_collins">Twitter</a>
+    <a class="webicon facebook" href="https://www.facebook.com/daneclarkcollins">Facebook</a>
+    <!--<a class="webicon googleplus" href="https://plus.google.com/115611966403292649399/posts">Google+</a>-->
+    <a class="webicon goodreads" href="https://www.goodreads.com/danecollins">Goodreads</a>
+    <a class="webicon soundcloud" href="https://soundcloud.com/danecollins">SoundCloud</a>
+    <a class="webicon youtube" href="https://www.youtube.com/user/daneclarkcollins/">YouTube</a>
+    <a class="webicon rss" href="/atom.xml">RSS</a>
+  </div>
+  <a class="twitter-timeline" href="https://twitter.com/dane_collins" data-widget-id="265476096680673280">Tweets by @dane_collins</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  </script>
+</div>
+
+{% if page.handle != "homepage" %}
 <!-- Latest Posts -->
 <div class="panel">
   <h4>Recent Posts</h4>
   <ul class="recent">
     <li><a href="#">Two new songs from I Am the Phantom</a></li>
-		<li><a href="#">Let there be light!</a></li>
-		<li><a href="#">Bike prayer</a></li>
-		<li><a href="#">Video: Transient Revival – Free Will (Featuring Music by Dane Collins)</a></li>
-		<li><a href="#">Video: Aeon (featuring music by Dane Collins)</a></li>
-	</ul>
+    <li><a href="#">Let there be light!</a></li>
+    <li><a href="#">Bike prayer</a></li>
+    <li><a href="#">Video: Transient Revival – Free Will (Featuring Music by Dane Collins)</a></li>
+    <li><a href="#">Video: Aeon (featuring music by Dane Collins)</a></li>
+  </ul>
 </div>
 
 <!-- Latest Book -->
 <div class="panel">
   <h4>Latest Book</h4>
-  <div class="textwidget">
-    <center>
-      <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0996013806&amp;linkCode=as2&amp;tag=danclacol-20&amp;linkId=BOIDDFLR76RZBL27"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=0996013806&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=danclacol-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=danclacol-20&amp;l=as2&amp;o=1&amp;a=0996013806" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
-    </center>
+  <div class="textwidget clearfix">
+    <div class="book cover center">
+      <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0996013806&amp;linkCode=as2&amp;tag=danclacol-20&amp;linkId=BOIDDFLR76RZBL27"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=0996013806&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=danclacol-20"><br>The Elves of Uteria</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=danclacol-20&amp;l=as2&amp;o=1&amp;a=0996013806" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+    </div>
   </div>
 </div>
+{% endif %}

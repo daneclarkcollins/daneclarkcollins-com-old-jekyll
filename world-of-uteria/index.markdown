@@ -20,6 +20,6 @@ Druid Council, Conclave of Culture and Antiquity
 Year 5711 of the Fourth Age of Uteria._
 
 ## Available Books
-The Elves of Uteria  
-The Elflings of Uteria  
-The Tomb of Kochun
+[The Elves of Uteria](/world-of-uteria/the-elves-of-uteria/ "The Elves of Uteria")  
+[The Elflings of Uteria](/world-of-uteria/the-elflings-of-uteria/ "The Elflings of Uteria")  
+[The Tomb of Kochun](/world-of-uteria/tomb-of-kochun "Tomb of Kochun")
