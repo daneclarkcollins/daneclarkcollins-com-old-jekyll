@@ -4,7 +4,7 @@ description : Writer & Musician
 url : http://daneclarkcollins.github.io/daneclarkcollins-com
 author: Dane Clark Collins
 twitter: dane_collins
-analytics:
+analytics: UA-16541664-7
 year: 2014
 markdown: kramdown
 permalink: /blog/:title
