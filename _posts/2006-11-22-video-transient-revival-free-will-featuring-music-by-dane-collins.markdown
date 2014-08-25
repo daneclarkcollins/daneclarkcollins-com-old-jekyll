@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video: Transient Revival - Free Will (featuring music by Dane Collins)
+title: "Video: Transient Revival—Free Will, featuring music by Dane Collins"
 description: This is one of three videos from the Transient Revival piece, featuring animation by Michael Bielaczyc and music by Dane Clark Collins.
 ---
 

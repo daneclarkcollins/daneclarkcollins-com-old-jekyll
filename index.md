@@ -22,9 +22,13 @@ Magic has also begun to wake in the lands, and Jarin records the different types
 ## Latest Posts
 
 {% for post in site.posts limit:5 %}
-<h4 style="margin-bottom:0"><a href="{{ site.prefix  }}{{ post.url }}">{{ post.title }}</a></h4>
-<p style="margin-bottom:0;color:#999;font-style:italic;">{{ post.date | date_to_string }}</p>
-{{ post.excerpt }}
+  <h4 style="margin-bottom:0"><a href="{{ site.prefix  }}{{ post.url }}">{{ post.title }}</a></h4>
+  <p style="margin-bottom:0;color:#999;font-style:italic;">{{ post.date | date_to_string }}</p>
+  {% if post.customexcerpt %}
+    <p>{{ post.customexcerpt }}</p>
+  {% else %}
+    {{ post.excerpt }}
+  {% endif %}
 {% endfor %}
 
 <a href="/blog" class="button radius" title="Dane Clark Collins Blog">More posts...</a>
