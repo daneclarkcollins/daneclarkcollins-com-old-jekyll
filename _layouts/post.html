@@ -30,8 +30,8 @@
               <div class="content-padding">
                 <header>
     				      <h1>{{ page.title }}</h1>
-    			        <span class="byline author">Written by Dane Clark Collins</span>
-                  on <time class="updated" pubdate="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: '%B %d, %Y' }}</time>
+    			        <span class="byline author">Written by Dane Clark Collins on</span>
+                  <time class="updated" pubdate="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: '%B %d, %Y' }}</time>
                 </header>
                 {{ content }}
 
