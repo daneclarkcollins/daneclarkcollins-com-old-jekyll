@@ -6,9 +6,9 @@ description: The new and improved official site of Dane Clark Collins has been i
 
 Finally! Believe it or not, I began to build a new site about three years ago, and only today have I finally completed it.
 
-In all honesty, it could have been launched long ago, but I never was happy with it. I've never been very good at talking about myself. Self-aggrandizement is just not my nature, and any attempt I make it selling myself feels forced. But neither is self-deprecation in my nature, which is how many people work at self-promotion. So the resulting middle ground can be boring.
+The site may have been inactive, but I've been quite busy with writing. Much of that writing will be making its way into posts over the next... however long I live to keep posting here.
 
-For those who are interested: The site went through many iterations and platforms. I built it in ExpressionEngine, then rebuilt it in Wordpress, and now I've rebuilt it again—this time in a platform called Jekyll. Jekyll uses flat files, so my hope is that it will be less susceptible to hacking, which is an issue I've been struggling with on some other sites I run. Also, in Jekyll I'm able to create flat files using Markdown. If you're a writer or blogger, I highly recommend you look into Markdown. I've even begun doing my fiction writing in a program called Ulysses, which is a full-featured Markdown editor.
+In all honesty, it could have been launched long ago, but I never was happy with it. I've never been very good at talking about myself. Self-aggrandizement is just not my nature, and any attempt I make it selling myself feels forced. But neither is self-deprecation in my nature, which is how many people work at self-promotion. So the resulting middle ground can be boring.
 
 ## Join my mailing list for updates!
 
@@ -23,3 +23,7 @@ Also in this site's sitebar is a list of my social networking profiles. Please f
 ## The blog
 
 Be sure to watch the blog for new posts, and more importantly, comment! In addition to updates on my professional life, I'll also be editorializing—minus the presumption that I'm ever right. So hearing from others will make things interesting.
+
+## Technology
+
+For those who are interested: The site went through many iterations and platforms. I built it in ExpressionEngine, then rebuilt it in Wordpress, and now I've rebuilt it again—this time in a platform called Jekyll. Jekyll uses flat files, so my hope is that it will be less susceptible to hacking, which is an issue I've been struggling with on some other sites I run. Also, in Jekyll I'm able to create flat files using Markdown. If you're a writer or blogger, I highly recommend you look into Markdown. I've even begun doing my fiction writing in a program called Ulysses, which is a full-featured Markdown editor.
