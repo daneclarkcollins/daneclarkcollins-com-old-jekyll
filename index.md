@@ -3,6 +3,7 @@ layout: page
 title: Welcome!
 handle: homepage
 description: Dane Clark Collins is a writer of speculative fantasy and sci-fantasy fiction and and experimental musician from Philadelphia, PA.
+ogtype: website
 ---
 
 ## Latest Release: The Elves of Uteria

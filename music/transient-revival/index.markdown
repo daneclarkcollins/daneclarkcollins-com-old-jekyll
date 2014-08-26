@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Transient Revival
+ogtype: music.album
 ---
 
 <div class="left album cover">

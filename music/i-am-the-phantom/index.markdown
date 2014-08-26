@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Am The Phantom
+ogtype: music.album
 ---
 
 <div class="left album cover">

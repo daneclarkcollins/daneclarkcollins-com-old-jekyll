@@ -1,6 +1,7 @@
 ---
 layout: page
 title: World of Uteria
+ogtype: books.book
 ---
 
 Uteria is an original fantasy world created by Michael Bielaczyc and Dane Clark Collins.

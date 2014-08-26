@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Elves of Uteria
+ogtype: books.book
 ---
 ## What is in the book?
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tomb of Kochun
+ogtype: books.book
 ---
 
 ## About the module:
