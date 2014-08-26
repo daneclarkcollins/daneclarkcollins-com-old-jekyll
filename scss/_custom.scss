@@ -24,17 +24,23 @@ header.page-header {
 // Add class for images
 img.alignright {
 	float: right;
-	margin: 0 0 18px 18px;
+	margin: .5em 0 18px 18px;
 }
 
 img.alignleft {
 	float: left;
-	margin: 0 18px 18px 0;
+	margin: .5em 18px 18px 0;
 }
 
 img.aligncenter {
 	display: block;
 	margin: 18px auto;
+}
+img.border {
+	padding: 5px; border: 1px solid #999;
+}
+img.img-small {
+	width: 50%;
 }
 
 // Content

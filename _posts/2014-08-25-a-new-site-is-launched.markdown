@@ -2,9 +2,10 @@
 layout: post
 title: A new site is launched!
 description: The new and improved official site of Dane Clark Collins has been in the works for some time, and here it is.
+imageurl: /media/blog-images/new-site-screenshot.png
 ---
 
-Finally! Believe it or not, I began to build a new site about three years ago, and only today have I finally completed it.
+<img src="/media/blog-images/new-site-screenshot.png" alt="New site screenshot" class="alignleft border img-small">Finally! Believe it or not, I began to build a new site about three years ago, and only today have I finally completed it.
 
 The site may have been inactive, but I've been quite busy with writing. Much of that writing will be making its way into posts over the next... however long I live to keep posting here.
 
