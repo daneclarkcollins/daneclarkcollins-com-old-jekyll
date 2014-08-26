@@ -5,9 +5,11 @@ description: The new and improved official site of Dane Clark Collins has been i
 imageurl: /media/blog-images/new-site-screenshot.png
 ---
 
-<img src="/media/blog-images/new-site-screenshot.png" alt="New site screenshot" class="alignleft border img-small">Finally! Believe it or not, I began to build a new site about three years ago, and only today have I finally completed it.
+Finally! Believe it or not, I began to build a new site about three years ago, and only today have I finally completed it.
 
 The site may have been inactive, but I've been quite busy with writing. Much of that writing will be making its way into posts over the next... however long I live to keep posting here.
+
+<img src="/media/blog-images/new-site-screenshot.png" alt="New site screenshot" class="alignleft border img-small">
 
 In all honesty, it could have been launched long ago, but I never was happy with it. I've never been very good at talking about myself. Self-aggrandizement is just not my nature, and any attempt I make it selling myself feels forced. But neither is self-deprecation in my nature, which is how many people work at self-promotion. So the resulting middle ground can be boring.
 
