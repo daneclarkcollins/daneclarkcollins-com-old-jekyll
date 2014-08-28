@@ -18,7 +18,7 @@ Jarin keeps records of the places he goes, so the book includes a map of western
 
 Magic has also begun to wake in the lands, and Jarin records the different types he encounters and their application in the world around him.
 
-<a href="/world-of-uteria/the-elves-of-uteria/" class="button radius" title="The Elves of Uteria">Learn more...</a>
+<a href="/world-of-uteria/the-elves-of-uteria/" class="button" title="The Elves of Uteria">Learn more...</a>
 
 ## Latest Posts
 
@@ -32,4 +32,4 @@ Magic has also begun to wake in the lands, and Jarin records the different types
 {% endif %}
 {% endfor %}
 
-<a href="/blog" class="button radius" title="Dane Clark Collins Blog">More posts...</a>
+<a href="/blog" class="button" title="Dane Clark Collins Blog">More posts...</a>
