@@ -8,5 +8,5 @@ analytics: UA-16541664-7
 year: 2014
 markdown: kramdown
 permalink: /blog/:title
-paginate: 20
+paginate: 10
 paginate_path: "blog/page:num"
