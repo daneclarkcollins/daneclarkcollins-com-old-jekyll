@@ -7,6 +7,6 @@ twitter: dane_collins
 analytics: UA-16541664-7
 year: 2014
 markdown: kramdown
-permalink: /blog/:title
+permalink: /blog/:title/
 paginate: 10
-paginate_path: "/blog/page:num"
+paginate_path: "/blog/page:num/"
