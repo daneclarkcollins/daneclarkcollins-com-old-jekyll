@@ -5,7 +5,7 @@ title: Just Words
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h4 style="margin-bottom:0"><a href="{{ site.prefix  }}{{ post.url }}/">{{ post.title }}</a></h4>
+  <h4 style="margin-bottom:0"><a href="{{ site.prefix  }}{{ post.url }}">{{ post.title }}</a></h4>
   <p style="margin-bottom:0;color:#999;font-style:italic;">{{ post.date | date_to_string }}</p>
   {% if post.custom_excerpt %}
   <p>{{ post.custom_excerpt }}</p>
@@ -18,7 +18,7 @@ title: Just Words
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
   {% if paginator.previous_page %}
-  <li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+  <li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | remove:'index.html' }}">&laquo;</a></li>
   {% else %}
   <li class="arrow unavailable"><a href="">&laquo;</a></li>
   {% endif %}
@@ -27,14 +27,14 @@ title: Just Words
     {% if page == paginator.page %}
     <li class="current"><a href="">{{ page }}</a></li>
     {% elsif page == 1 %}
-    <li><a href="{{ '/blog/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    <li><a href="{{ '/blog/' | prepend: site.baseurl | replace: '//', '/' | remove:'index.html' }}">{{ page }}</a></li>
     {% else %}
     <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-  <li class="arrow"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+  <li class="arrow"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' | remove:'index.html' }}">&raquo;</a></li>
   {% else %}
   <li class="arrow unavailable"><a href="">&raquo;</a></li>
   {% endif %}
