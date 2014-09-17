@@ -42,11 +42,9 @@
 <div class="panel">
   <h4>Recent Posts</h4>
   <ul class="recent">
-    <li><a href="#">Two new songs from I Am the Phantom</a></li>
-    <li><a href="#">Let there be light!</a></li>
-    <li><a href="#">Bike prayer</a></li>
-    <li><a href="#">Video: Transient Revival – Free Will (Featuring Music by Dane Collins)</a></li>
-    <li><a href="#">Video: Aeon (featuring music by Dane Collins)</a></li>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ site.prefix  }}{{ post.url }}/">{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
 </div>
 
