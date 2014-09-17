@@ -32,4 +32,4 @@ Magic has also begun to wake in the lands, and Jarin records the different types
 {% endif %}
 {% endfor %}
 
-<a href="/blog" class="button" title="Dane Clark Collins Blog">More posts...</a>
+<a href="/blog/" class="button" title="Dane Clark Collins Blog">More posts...</a>
