@@ -5,7 +5,7 @@ ogtype: books.book
 ---
 ## What is in the book?
 
-<div class="left cover book"><img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0996013806&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=danclacol-20" alt="The Elves of Uteria"><br />The Elves of Uteria<br><span class="small-text">Buy: <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank">Amazon</a><br>Buy: <a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank">DriveThruRPG</a></span></div>
+<div class="left cover book"><img src="/media/covers/the_elves_of_uteria.jpg" alt="The Elves of Uteria"><br />The Elves of Uteria<br><span class="small-text">Buy: <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank">Amazon</a><br>Buy: <a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank">DriveThruRPG</a></span></div>
 
 The Elves of Uteria is a story heavy source book featuring an original re-imagining of fantasy elves. The book is 76 pages with plenty of art, fiction and gaming material.
 

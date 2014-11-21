@@ -6,7 +6,7 @@ ogtype: books.book
 
 ## About the module:
 
-<div class="left dtrpg cover"><img src="http://rpg.drivethrustuff.com/images/4950/108074-thumb140.jpg" alt="Tomb of Kochun"><br />Tomb of Kochun</a><br><span class="small-text">Buy: <a target="_blank" href="http://rpg.drivethrustuff.com/product/108074/The-Tomb-of-Kochun?affiliate_id=646556">DriveThruRPG</a></span></div>
+<div class="left dtrpg cover"><img src="/media/covers/the_tomb_of_kochun.jpg" alt="Tomb of Kochun"><br />Tomb of Kochun</a><br><span class="small-text">Buy: <a target="_blank" href="http://rpg.drivethrustuff.com/product/108074/The-Tomb-of-Kochun?affiliate_id=646556">DriveThruRPG</a></span></div>
 
 This is a level 6-7 adventure set in the World of Uteria. The players have to bargain to gain entry to the Town of Aerville and fetch a couple of artifacts from a nearby catacomb to appease the mayor. The tomb is that of Kochun, a once-powerful warlord, who, in his aging dementia, created a fortress out of his final resting place to keep grave robbers and looters at bay. Traps, monsters, and more await inside the Tomb of Kochun!
 

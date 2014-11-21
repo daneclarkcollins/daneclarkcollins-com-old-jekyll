@@ -4,7 +4,7 @@ title: The Elflings of Uteria
 ogtype: books.book
 ---
 
-<div class="left dtrpg cover"><img src="http://rpg.drivethrustuff.com/images/4950/113927-thumb140.jpg" alt="The Elflings of Uteria"><br />The Elflings of Uteria</a><br><span class="small-text">Free: <a target="_blank" href="http://rpg.drivethrustuff.com/product/113927/The-Elflings-of-Uteria?affiliate_id=646556">DriveThruRPG</a></span></div>
+<div class="left dtrpg cover"><img src="/media/covers/the_elflings_of_the_vale.jpg" alt="The Elflings of Uteria"><br />The Elflings of Uteria</a><br><span class="small-text">Free: <a target="_blank" href="http://rpg.drivethrustuff.com/product/113927/The-Elflings-of-Uteria?affiliate_id=646556">DriveThruRPG</a></span></div>
 
 _This book can be downloaded in PDF format for free._
 
