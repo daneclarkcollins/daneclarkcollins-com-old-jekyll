@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Crossroads of the Never: Book 1
+title: "The Crossroads of the Never: Book 1"
 ogtype: books.book
 ---
 ## What is in the book?
