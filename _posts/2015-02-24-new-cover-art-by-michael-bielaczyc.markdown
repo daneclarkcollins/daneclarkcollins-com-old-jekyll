@@ -5,9 +5,9 @@ description: "The first book in The Crossroads of the Never saga is coming soon.
 custom_excerpt: "The first book in The Crossroads of the Never saga is coming soon. The cover art by Michael Bielaczyc has just been unveiled!"
 ---
 
-<a href="/crossroads-of-the-never/book-1/"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="Crossroads of the Never: Book 1" class="alignleft border img-small"></a>
-
 And so it begins.
+
+<a href="/crossroads-of-the-never/book-1/"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="Crossroads of the Never: Book 1" class="alignleft border img-small"></a>
 
 The first book in the new series, The Crossroads of the Never, has been completed. It is at the printer and the first proof is in the works. The book will become availabe in print as soon as it is ready.
 
