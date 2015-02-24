@@ -8,17 +8,13 @@ ogtype: website
 
 ## Latest Release: The Elves of Uteria
 
-<div class="book cover left"><img src="/media/covers/the_elves_of_uteria.jpg" alt="The Elves of Uteria"><br />The Elves of Uteria<br><span class="small-text">Buy: <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank">Amazon</a><br>Buy: <a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank">DriveThruRPG</a></span></div>
+<div class="book cover left"><a href="/crossroads-of-the-never/book-1/"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="The Crossroads of the Never: Book 1"><br />The Crossroads of the Never: Book 1</a><br><span class="small-text">Coming Soon!</span></div>
 
-The Elves of Uteria is a story heavy source book featuring an original re-imagining of fantasy elves. The book is 76 pages with plenty of art, fiction and gaming material.
+For Toryn Ninefingers, this is almost like any other night, entertaining a rowdy crowd with song and story. But tonight, he has a special purpose in the telling of his tale, and reveals a shocking personal story that he has never told an audience before. With its telling, the world of Uteria may never be the same again.
 
-The Elves of Uteria is told through the eyes of Jarin Plainswalker, as Druid from the Western Council who was tasked with reestablishing contact with the elves of the world. The five different cultures of the elves are explored, as well as the elflings, who are the fey cousins of the elves.
+This is the first book in the Crossroads of the Never saga, a series spanning thousands of years, shedding light on the dark and disturbing mysteries of the world of Uteria—a world besieged by the passing of a dark age, the continuing echoes of its violent history, and the recent incursion of creatures long since forgotten.
 
-Jarin keeps records of the places he goes, so the book includes a map of western Uteria, Jarin’s journals and entries as he travels, and some of the creatures he encounters.
-
-Magic has also begun to wake in the lands, and Jarin records the different types he encounters and their application in the world around him.
-
-<a href="/world-of-uteria/the-elves-of-uteria/" class="button" title="The Elves of Uteria">Learn more...</a>
+<a href="/crossroads-of-the-never/book-1/" class="button" title="The Crossroads of the Never: Book 1">Learn more...</a>
 
 ## Latest Posts
 
