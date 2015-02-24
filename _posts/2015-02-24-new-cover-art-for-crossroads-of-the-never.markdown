@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New cover art by Michael Bielaczyc"
+title: "New cover art for Crossroads of the Never: Book 1"
 description: "The first book in The Crossroads of the Never saga is coming soon. The cover art by Michael Bielaczyc has just been unveiled!"
 custom_excerpt: "The first book in The Crossroads of the Never saga is coming soon. The cover art by Michael Bielaczyc has just been unveiled!"
 ---
