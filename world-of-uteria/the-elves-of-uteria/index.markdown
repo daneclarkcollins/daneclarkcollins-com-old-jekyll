@@ -38,21 +38,21 @@ These are based in the world of Uteria, but can easily be converted over into ot
 
 ##Artwork:
 
-**Michael Bielaczyc** - Michael's work spans the fantastical to the strange. He has worked with many larger companies such as Dragonlance, Kobold Quarterly, Frog God Games as well as his own projects. http://michaelbielaczyc.com/blog/
+**Michael Bielaczyc** - Michael's work spans the fantastical to the strange. He has worked with many larger companies such as Dragonlance, Kobold Quarterly, Frog God Games as well as his own projects. <http://michaelbielaczyc.com/blog/>
 
-**Paul Bielaczyc** - Paul has worked with many of the same companies as his brother, Michael, and is also a Chesley Award winning artist. http://paulbielaczyc.com/
+**Paul Bielaczyc** - Paul has worked with many of the same companies as his brother, Michael, and is also a Chesley Award winning artist. <http://paulbielaczyc.com/>
 
-**Sam Flegal** - Sam Flegal is an oil painter who describes his work as “stylized realism,” portraying fantastical things in a graphic manner, but with an eye towards real life. Working as a fantasy illustrator, Sam has worked on projects such as Legend of the Five Rings, Warhammer Fantasy, Monster Hunter International, and of course The World of Uteria! http://samflegal.com/
+**Sam Flegal** - Sam Flegal is an oil painter who describes his work as “stylized realism,” portraying fantastical things in a graphic manner, but with an eye towards real life. Working as a fantasy illustrator, Sam has worked on projects such as Legend of the Five Rings, Warhammer Fantasy, Monster Hunter International, and of course The World of Uteria! <http://samflegal.com/>
 
-**Sarah Frary** - Sarah Frary is a wanderer and explorer in our own world and her art expresses that. When not exploring the wilds, she runs her own tattoo shop in the far west. spiralunwinding.com
+**Sarah Frary** - Sarah Frary is a wanderer and explorer in our own world and her art expresses that. When not exploring the wilds, she runs her own tattoo shop in the far west. <http://www.spiralunwinding.com>
 
-**Melissa Gay** - Melissa Gay is a Nashville illustrator whose painting style she likes to call "atmospheric realism." Her work includes book covers for Apex, Mythopoeic, and Immersion Press, the Angel Dreams Oracle deck for Hay House Publishing, and illustrations for roleplaying games such as The Dresden Files, Part-Time Gods, Mermaid Adventures, Fantasy HERO, Psi-Punk, Camp Myth, and more. melissagay.com
+**Melissa Gay** - Melissa Gay is a Nashville illustrator whose painting style she likes to call "atmospheric realism." Her work includes book covers for Apex, Mythopoeic, and Immersion Press, the Angel Dreams Oracle deck for Hay House Publishing, and illustrations for roleplaying games such as The Dresden Files, Part-Time Gods, Mermaid Adventures, Fantasy HERO, Psi-Punk, Camp Myth, and more. <http://www.melissagay.com>
 
-**Brian Hulsey** - Sculptor extraordinaire, Brian lives in Nashville and specializes in the dark and grotesque. When he first saw the sketches for the elves in masks, he asked to sign up and sculpt them for us! evilbdesigns.com
+**Brian Hulsey** - Sculptor extraordinaire, Brian lives in Nashville and specializes in the dark and grotesque. When he first saw the sketches for the elves in masks, he asked to sign up and sculpt them for us! <http://www.evilbdesigns.com>
 
-**Aaron Miller** - Aaron Miller is a Chicago based illustrator in the style of imaginative realism. Some of his projects include Magic the Gathering, D&amp;D, Star Wars, Legends of Norrath, NYC the Powerful, Immortalis, and Shogun Rising just to name a few. aaronbmiller.com
+**Aaron Miller** - Aaron Miller is a Chicago based illustrator in the style of imaginative realism. Some of his projects include Magic the Gathering, D&amp;D, Star Wars, Legends of Norrath, NYC the Powerful, Immortalis, and Shogun Rising just to name a few. <http://www.aaronbmiller.com>
 
-**Christopher Burdett** - A master of monster design, Christopher contributed some work to the creature compendium. http://www.christopherburdett.com/
+**Christopher Burdett** - A master of monster design, Christopher contributed some work to the creature compendium. <http://www.christopherburdett.com/>
 
 <div class="clearfix">
   <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
