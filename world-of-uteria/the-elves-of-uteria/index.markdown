@@ -25,11 +25,11 @@ These are based in the world of Uteria, but can easily be converted over into ot
 
 ## Gaming Features:
 
-**Creature Compendium** – 12 monsters with full stats and information.  
-**Spell book** – 8 spells based on the elven cultures.  
-**Story tips** for the elves and elflings as player races.  
-**An explanation of the base magic system in Uteria** – ravaging, spell points, and feats. An explanation of the base spellcaster class.  
-**Our modified spellcasting system** eliminates spell classes like wizards, clerics, etc and replaces it with a base spellcaster class and archetypes.
+* **Creature Compendium** – 12 monsters with full stats and information.  
+* **Spell book** – 8 spells based on the elven cultures.  
+* **Story tips** for the elves and elflings as player races.  
+* **An explanation of the base magic system in Uteria** – ravaging, spell points, and feats. An explanation of the base spellcaster class.  
+* **Our modified spellcasting system** eliminates spell classes like wizards, clerics, etc and replaces it with a base spellcaster class and archetypes.
 
 <div class="clearfix">
   <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
