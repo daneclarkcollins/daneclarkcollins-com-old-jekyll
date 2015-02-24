@@ -5,7 +5,7 @@ description: "The first book in The Crossroads of the Never saga is coming soon.
 custom_excerpt: "The first book in The Crossroads of the Never saga is coming soon. The cover art by Michael Bielaczyc has just been unveiled!"
 ---
 
-<a href="/crossroads-of-the-never/book-1/"><img src="/media/blog-images/new-site-screenshot.png" alt="New site screenshot" class="alignleft border img-small"></a>
+<a href="/crossroads-of-the-never/book-1/"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="Crossroads of the Never: Book 1" class="alignleft border img-small"></a>
 
 And so it begins.
 
