@@ -8,7 +8,7 @@ ogtype: website
 
 ## Latest Release: The Elves of Uteria
 
-<div class="book cover left"><a href="/crossroads-of-the-never/book-1/"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="The Crossroads of the Never: Book 1"><br />The Crossroads of the Never: Book 1</a><br><span class="small-text">Coming Soon!</span></div>
+<div class="book cover left">{% include ads/crossroads-of-the-never-cover-box.html %}</div>
 
 For Toryn Ninefingers, this is almost like any other night, entertaining a rowdy crowd with song and story. But tonight, he has a special purpose in the telling of his tale, and reveals a shocking personal story that he has never told an audience before. With its telling, the world of Uteria may never be the same again.
 

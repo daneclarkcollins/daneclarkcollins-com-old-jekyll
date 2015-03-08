@@ -5,7 +5,7 @@ ogtype: books.book
 ---
 ## Description:
 
-<div class="left cover book"><img src="/media/covers/crossroads-of-the-never-book-1.jpg" alt="Crossroads of the Never: Book 1"><br />The Elves of Uteria<br><span class="small-text">Coming Soon!</span></div>
+<div class="left cover book">{% include ads/crossroads-of-the-never-cover-box.html %}</div>
 
 For Toryn Ninefingers, this is almost like any other night, entertaining a rowdy crowd with song and story. But tonight, he has a special purpose in the telling of his tale, and reveals a shocking personal story that he has never told an audience before. With its telling, the world of Uteria may never be the same again.
 

@@ -5,7 +5,7 @@ ogtype: books.book
 ---
 ## What is in the book?
 
-<div class="left cover book"><img src="/media/covers/the_elves_of_uteria.jpg" alt="The Elves of Uteria"><br />The Elves of Uteria<br><span class="small-text">Buy: <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank">Amazon</a><br>Buy: <a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank">DriveThruRPG</a></span></div>
+<div class="left cover book">{% include ads/elves-of-uteria-cover-box.html %}</div>
 
 The Elves of Uteria is a story heavy source book featuring an original re-imagining of fantasy elves. The book is 76 pages with plenty of art, fiction and gaming material.
 
@@ -31,10 +31,7 @@ These are based in the world of Uteria, but can easily be converted over into ot
 * **An explanation of the base magic system in Uteria** – ravaging, spell points, and feats. An explanation of the base spellcaster class.  
 * **Our modified spellcasting system** eliminates spell classes like wizards, clerics, etc and replaces it with a base spellcaster class and archetypes.
 
-<div class="clearfix">
-  <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
-<a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank" class="button right">Buy the book at DriveThruRPG</a>
-</div>
+{% include ads/elves-of-uteria-buttons.html %}
 
 ##Artwork:
 
@@ -54,7 +51,4 @@ These are based in the world of Uteria, but can easily be converted over into ot
 
 **Christopher Burdett** - A master of monster design, Christopher contributed some work to the creature compendium. <http://www.christopherburdett.com/>
 
-<div class="clearfix">
-  <a href="http://www.amazon.com/gp/product/0996013806/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996013806&linkCode=as2&tag=danclacol-20&linkId=BOIDDFLR76RZBL27" target="_blank" class="button left">Buy the book at Amazon</a>
-<a href="http://rpg.drivethrustuff.com/product/128540/The-Elves-of-Uteria?affiliate_id=646556" target="_blank" class="button right">Buy the book at DriveThruRPG</a>
-</div>
+{% include ads/elves-of-uteria-buttons.html %}
