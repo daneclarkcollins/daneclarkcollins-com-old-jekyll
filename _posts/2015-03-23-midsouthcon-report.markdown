@@ -15,19 +15,19 @@ Pictured here are Michael and Paul Bielaczyc. Mike is dressed as Finn from Adven
 
 ## My Panels
 
-### Mythological, Paranormal, and Regular Creatures
+#### Mythological, Paranormal, and Regular Creatures
 
 This one started off with some difficulty. It began at 11 pm, and our moderator was replaced at the last minute. There was one other panelist, and we were all tired. But I believe we recovered and it became an interesting discussion.
 
 We talked of evolution, mythology, archetypes, technology and the creatures of the future, the continued evolution of humanity, and the motivations and personalities of dogs and other creatures, and probably even more that I've forgotten.
 
-### Building a World Through Art, Fiction, and Game Design - The World of Uteria
+#### Building a World Through Art, Fiction, and Game Design - The World of Uteria
 
 We had a great turnout for this one. Our crowd was engaged and asked many questions, so we thank them for that.
 
 Our panel included Michael Bielaczyc, Paul Bielaczyc, Melissa Gay (who was also the show's Artist Guest of Honor), Sam Flegal, and me. We discussed many of the challenges we've faced in creating a multimedia world of gaming, art, and fiction, and the ways that we've attempted to overcome those challenges.
 
-### Create Strong Characters
+#### Create Strong Characters
 
 This panel, despite being at 9 pm on Saturday, packed the room and became a great conversation. This one included myself, Logan Masterson, Tracy Morris, Rosalie Stanton, Frank Tuttle, Jay Wilburn, and me.
 
