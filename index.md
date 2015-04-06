@@ -6,7 +6,7 @@ description: Dane Clark Collins is a writer of speculative fantasy and sci-fanta
 ogtype: website
 ---
 
-## Latest Release: The Elves of Uteria
+## Latest Release: The Crossroads of the Never: Book 1
 
 <div class="book cover left">{% include ads/crossroads-of-the-never-cover-box.html %}</div>
 
