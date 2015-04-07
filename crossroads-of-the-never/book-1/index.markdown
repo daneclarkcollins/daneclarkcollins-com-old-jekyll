@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Crossroads of the Never: Book 1"
+description: "Book description: For Toryn Ninefingers, this is almost like any other night, entertaining a rowdy crowd with song and story..."
 ogtype: books.book
 ---
 ## Description:
