@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: "Contact Dane Clark Collins using this simple form."
 ---
 
 <form action="http://getsimpleform.com/messages?form_api_token=273997e82f972c30cbf7e22d5902d822" method="post" class="contact">

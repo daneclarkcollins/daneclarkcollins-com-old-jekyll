@@ -25,17 +25,17 @@ Twitter: https://dev.twitter.com/docs/cards/types/summary-card
 ============================== -->
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:url" content="{{ site.url }}{{ page.url | remove:'index.html' }}">
-<meta property="og:description" content="{{ page.description }}">
-<meta property="og:image" content="{{ site.url }}{{ page.imageurl }}">{% if page.path contains '_posts' %}
+<meta property="og:url" content="{{ site.url }}{{ page.url | remove:'index.html' }}">{% if page.description %}
+<meta property="og:description" content="{{ page.description }}">{% endif %}{% if page.imageurl %}
+<meta property="og:image" content="{{ site.url }}{{ page.imageurl }}">{% endif %}{% if page.path contains '_posts' %}
 <meta property="og:type" content="article">{% endif %}{% if page.ogtype %}
 <meta property="og:type" content="{{ page.ogtype }}">{% endif %}
 <meta property="fb:admins" content="705948153" />
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@{{ site.twitter }}">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.description }}">
-<meta name="twitter:image" content="{{ site.url }}{{ page.imageurl }}">
+<meta name="twitter:site" content="@{{ site.twitter }}">{% if page.title %}
+<meta name="twitter:title" content="{{ page.title }}">{% endif %}{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">{% endif %}{% if page.imageurl %}
+<meta name="twitter:image" content="{{ site.url }}{{ page.imageurl }}">{% endif %}
 
 <!-- modernizr
 ================================================== -->
