@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome!
+title: The Official Site for Author/Musician Dane Clark Collins
 handle: homepage
-description: Dane Clark Collins is a writer of speculative fantasy and sci-fantasy fiction and and experimental musician from Philadelphia, PA.
+description: Dane Clark Collins is a fantasy/sci-fantasy fiction author and experimental musician from Philadelphia, PA.
 ogtype: website
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Transient Revival
+description: "Transient Revival is a project by artist Michael Bielaczyc and musician Dane Clark Collins combining the mediums of animation, sound, live sets, and live people."
 ogtype: music.album
 ---
 
@@ -8,7 +9,7 @@ ogtype: music.album
   <img src="/media/covers/transient_revival.jpg" />
 </div>
 
-Transient Revival is the first in a forthcoming series of projects by artist Michael Bielaczyc and musician Dane Clark Collins combining the mediums of animation, sound, live sets, and live people to create a truly immersive abstract environment.
+Transient Revival is a project by artist Michael Bielaczyc and musician Dane Clark Collins combining the mediums of animation, sound, live sets, and live people to create a truly immersive abstract environment.
 
 This track will become one of several on a forthcoming release. Be sure to check back often.
 

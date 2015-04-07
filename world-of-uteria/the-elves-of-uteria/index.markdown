@@ -1,27 +1,28 @@
 ---
 layout: page
 title: The Elves of Uteria
+description: "The Elves of Uteria is a story-heavy RPG source book for a re-imagining of fantasy elves. The book is 76 pages of art, fiction, and gaming material."
 ogtype: books.book
 ---
 ## What is in the book?
 
 <div class="left cover book">{% include ads/elves-of-uteria-cover-box.html %}</div>
 
-The Elves of Uteria is a story heavy source book featuring an original re-imagining of fantasy elves. The book is 76 pages with plenty of art, fiction and gaming material.
+The Elves of Uteria is a story-heavy RPG source book for a re-imagining of fantasy elves. The book is 76 pages of art, fiction, and gaming material.
 
-The Elves of Uteria is told through the eyes of Jarin Plainswalker, as Druid from the Western Council who was tasked with reestablishing contact with the elves of the world. The five different cultures of the elves are explored, as well as the elflings, who are the fey cousins of the elves.
+The Elves of Uteria is told through the eyes of Jarin Plainswalker, a Druid from the Western Council who was tasked with reestablishing contact with the reclusive elves. The five different cultures of elves are explored, as well as the elflings, who are the fey cousins of the elves.
 
-Jarin keeps records of the places he goes, so the book includes a map of western Uteria, Jarin's journals and entries as he travels, and some of the creatures he encounters.
+Jarin keeps records of the places he goes, so the book includes a map of the Westlands of Uteria, Jarin's journals and entries as he travels, and many of the creatures he encounters.
 
-Magic has also begun to wake in the lands, and Jarin records the different types he encounters and their application in the world around him.
+Magic has begun to wake across the lands, and Jarin records the various types he encounters along with their application.
 
 ## The Cultures of the Elves
 
-The five cultures that Jarin rediscovers span the westlands of Uteria, from the wild elves of the plains, to the dark elves of the North. Also chronicled is the Alfiren race, a small fey race that wanders throughout the lands and lives in the secluded area known as the Vale.
+The five cultures that Jarin rediscovers span the Westlands of Uteria, from the wild elves of the plains to the dark elves of the North. Also chronicled is the Alfiren race, a small fey race that wanders throughout the lands and lives in the secluded area known as the Vale.
 
-He looks at the elves society and religion, as well as their use of magic and warcraft.
+Jarin explores the elves' societies and religions, as well as their use of magic and warcraft.
 
-These are based in the world of Uteria, but can easily be converted over into other worlds and campaigns.
+This book is based in the world of Uteria, but can easily be adapted to work in other worlds and campaigns.
 
 ## Gaming Features:
 
@@ -29,7 +30,7 @@ These are based in the world of Uteria, but can easily be converted over into ot
 * **Spell book** – 8 spells based on the elven cultures.  
 * **Story tips** for the elves and elflings as player races.  
 * **An explanation of the base magic system in Uteria** – ravaging, spell points, and feats. An explanation of the base spellcaster class.  
-* **Our modified spellcasting system** eliminates spell classes like wizards, clerics, etc and replaces it with a base spellcaster class and archetypes.
+* **Our modified spellcasting system** eliminates magic classes like wizards and clerics and replaces them with a base spellcaster class with archetypes.
 
 {% include ads/elves-of-uteria-buttons.html %}
 

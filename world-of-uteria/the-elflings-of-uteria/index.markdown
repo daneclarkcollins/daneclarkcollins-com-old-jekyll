@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Elflings of Uteria
+description: "This 10 page pdf follows one of Jarin's first adventures with the fey of Uteria. He learns their customs and culture, and this inspires him to learn more."
 ogtype: books.book
 ---
 
@@ -12,4 +13,4 @@ This is a preview for the Elves of Uteria sourcebook.
 
 This 10 page pdf follows one of Jarin's first adventures with the fey of Uteria. He learns their customs and culture, and this inspires him to travel the lands and learn more of the various races of Uteria.
 
-Includes the history, culture and beliefs of the Elflings, as well as gaming stats for the race and stats for the Unmen monsters.
+Includes the history, culture, and beliefs of the elflings, as well as gaming stats for the race and stats for the unmen monsters.

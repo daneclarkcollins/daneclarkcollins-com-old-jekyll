@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Music
+description: "Enjoy the dark, disturbing, and experimental sounds of Dane Clark Collins. Electronic sounds meld with analog to create immersive, musical environments."
 ---
 
 Below are links to the various musical projects Dane Clark Collins has been involved in:

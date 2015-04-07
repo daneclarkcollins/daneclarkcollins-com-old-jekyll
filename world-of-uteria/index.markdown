@@ -1,6 +1,7 @@
 ---
 layout: page
 title: World of Uteria
+description: "The world of Uteria has lived in darkness for years beyond count. It has been ravaged by plagues for hundreds of years. An ancient war ravaged the land with dark magics..."
 ogtype: books.book
 ---
 

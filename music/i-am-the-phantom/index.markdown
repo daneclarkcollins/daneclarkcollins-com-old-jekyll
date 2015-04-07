@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Am The Phantom
+description: "I Am The Phantom is an experimental project written and performed by Dane Clark Collins, vocalist Daniel LaBrache, and beatboxer/multi-percussionist Ryan Dennler."
 ogtype: music.album
 ---
 
