@@ -29,3 +29,4 @@ This is the first book in the Crossroads of the Never saga, a series spanning th
 {% endfor %}
 
 <a href="/blog/" class="button" title="Dane Clark Collins Blog">More posts...</a>
+
