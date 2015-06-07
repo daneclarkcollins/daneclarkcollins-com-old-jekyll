@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My Trip to the Frank Frazetta Art Museum"
-description: "Dane was an author guest at MidSouthCon 33, and he has a good deal to say about it."
-custom_excerpt: "I just returned from MidSouthCon 33, where I was invited to be an author guest. Here is my experience from the show..."
+description: Here is the first man whose art I feared. The dread conjured by a Frazetta painting was something visceral."
+custom_excerpt: "Here is the first man whose art I feared. The dread conjured by a Frazetta painting was something visceral..."
 ---
 
 It has been two weeks since I had the uniquely spiritual experience of visiting the Frank Frazetta Art Museum.
