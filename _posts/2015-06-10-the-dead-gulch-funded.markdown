@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dead Gulch Adventure Funded, and Will Include A Short by Dane"
+title: "The Dead Gulch Adventure Funded, and Will Include a Short by Dane"
 description: "The Dead Gulch was funded has reached a funding goal to include a short story from Dane."
 custom_excerpt: "The Dead Gulch adventure, a new RPG module set in the world of Uteria, is now funded and has reached a funding goal to include a short story written by me..."
 ---
