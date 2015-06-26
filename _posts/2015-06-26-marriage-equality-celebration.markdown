@@ -3,6 +3,7 @@ layout: post
 title: "In Celebration of Marriage Equality"
 description: "Today, I set aside my cynicism and celebrate the ruling in favor of marriage equality."
 custom_excerpt: "So today is the day. Gay people never should have been excluded, but they were. No longer. Today will be noted in future history books as a day that another stone in the edifice of antique bigotry was torn down..."
+imageurl: "http://www.daneclarkcollins.com/media/blog-images/marriage-equality.jpg"
 ---
 
 <img src="/media/blog-images/marriage-equality.jpg" alt="Marriage Equality" class="alignleft border img-small" style="margin-top: 27px;">
